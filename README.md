@@ -46,9 +46,11 @@ I started down the path of creating a repository of code snippets to prepare for
 
 ## Disclaimer
 
-I wrote the code and programs in these files on my own time, I claim no ownership of the code or the problems to which these solutions that are in this repo. Please be aware that there may be code snippets in this repo that may look similar in part of whole to other code snippets that can be found by searching the internet.
+I wrote the code and programs in these files on my own time, I claim no ownership of the code or the problems to which these solutions that are in this repo. Please be aware that there may be code snippets in this repo that may look similar in part of whole to other code snippets that can be found by searching the internet. 
 
 While this is not intentional, it speaks to the nature of the job as a developer:
 
  *learn something interesting* --> *internalize* --> *code it* --> *test and release*
+ 
+ I have acknowledged the original site where I can.
 
