@@ -35,3 +35,12 @@ Some popular online whiteboard are given below. I would highly recommend you bec
 3. https://www.hackerrank.com/tests/sample
 
 I started down the path of creating a repository of code snippets to prepare for these types of online screens. This repo contains code snippets from that effort.
+
+## Getting Started
+
+## Prerequisites
+
+## Running the tests
+
+## Acknowledgments
+
