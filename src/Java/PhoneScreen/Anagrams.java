@@ -1,5 +1,4 @@
 package PhoneScreen;
-
 //-- determine if two strings are anagrams
 //-- a approach would be to create a hash table
 //-- put the the original string into the table

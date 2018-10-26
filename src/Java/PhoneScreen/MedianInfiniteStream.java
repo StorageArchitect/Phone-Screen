@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 
-//inspired by ttps://research.neustar.biz/2013/09/16/sketch-of-the-day-frugal-streaming/
+//inspired by https://research.neustar.biz/2013/09/16/sketch-of-the-day-frugal-streaming/
 public class MedianInfiniteStream {
 
     Integer median_est = 0;
