@@ -7,7 +7,13 @@ Now a days, almost all Tech companies require some sort of online phone screen b
 During the phone screen candidates are required to solve a minor code problem to demonstrate that they can actually code in the language of their choice. This can be very intimidating. While I had interviewed a lot of candidates to staff my teams both state side and overseas, I had not interviewed for a software position in quite sometime.
 
 The good news is that there is a entire cottage industry dedicated to preparing candidates for such interviews. While I do not endorse any particular web site, some of the popular sites are
-< Screening Sites>
+
+https://www.hackerrank.com/
+https://leetcode.com/
+https://www.geeksforgeeks.org/
+https://www.interviewbit.com/
+https://www.careercup.com/
+http://codekata.com/
 
 Broadly speaking the online/phone screen problems can be knowledge based (specific to a language of choice) and/or reasoning based (basic logic/ algorithms). The knowledge based problems typically are used to validate your basic understanding of the syntax, or language constructs. These problems are solved based not on intuitive understanding of the programming concepts but by the genuine use of the language of choice.
 
@@ -24,6 +30,8 @@ In other cases there is a "driver" method that is already provided along with so
 I felt that the latter approach gave me greater satisfaction because I could actually see the results of the execution of the function and correct any issues.
 
 Some popular online whiteboard are given below. I would highly recommend you become familiar with these sites.
-<shared board>
+https://coderpad.io/
+http://collabedit.com/
+https://www.hackerrank.com/tests/sample
 
 I started down the path of creating a repository of code snippets to prepare for these types of online screens. This repo contains code snippets from that effort.
