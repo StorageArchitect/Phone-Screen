@@ -43,6 +43,9 @@ I started down the path of creating a repository of code snippets to prepare for
 ## Running the tests
 
 ## Acknowledgments
+ 
+ I have acknowledged the sites that inspired the code where I can.
+
 
 ## Disclaimer
 
@@ -52,5 +55,4 @@ While this is not intentional, it speaks to the nature of the job as a developer
 
  *learn something interesting* --> *internalize* --> *code it* --> *test and release*
  
- I have acknowledged the original site where I can.
 
