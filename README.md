@@ -21,7 +21,7 @@ Reasoning problems are more to validate the candidates understanding of fundamen
 
 Typical phone screen can be anywhere from 45 - 60 min, including the brief introductions, candidates should be prepared to get cracking without a whole lot of pleasantries or familiarity with the online screen tool. Over the few months of practice (sometimes it feels like a parlor game) I began to get a feel for ideal candidate problem for the phone screen. Look for sub problems in well known algorithms (sorting/counting/string manipulation) something that can be solved either recursively or iteratively in anywhere between 20 to 30 lines of code.
 
-Another quirk to be aware of; some screeners want the candidate to code up a syntatically correct function/method in the language of their choice. In other words, you just code the method, there is no "driver" method provided so to speak. This was the hardest part for me.
+Another quirk to be aware of; some screeners want the candidate to code up a syntactically correct function/method in the language of their choice. In other words, you just code the method, there is no "driver" method provided so to speak. This was the hardest part for me.
 
 In this situation, it is best to focus on the input values and desired output values *and* debug the function by walking through each line of code for a representative sample input. Selecting the right representative input is critical in these situations.
 
@@ -46,8 +46,8 @@ I started down the path of creating a repository of code snippets to prepare for
 
 ## Disclaimer
 
-I wrote the code and programs in these files on my own time, I claim no ownership of the code or the problems to which these solutions that are in this repo. Please be aware that there may be code snippets in this repo that may look similar in part of whole to other code snippets that can be found by searching the internet. 
+I wrote the code and programs in these files on my own time, I claim no ownership of the code or the problems to which these solutions that are in this repo. Please be aware that there may be code snippets in this repo that may look similar in part of whole to other code snippets that can be found by searching the internet.
 
-While this is not intentional, it speaks to the nature of the job as a developer: you learn something --> internalize --> code it up --> test and release.
-
+While this is not intentional, it speaks to the nature of the job as a developer:
+you learn something interesting --> internalize --> code it up --> test and release.
 
