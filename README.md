@@ -1,4 +1,4 @@
-# Phone-Screen
+# Phone Screen Code Snippets
 
 I had worked for the same company for close to two decades and after hitting a professional growth plateau, I started to feel that it was time to move on.
  
