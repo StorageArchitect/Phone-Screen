@@ -1,6 +1,6 @@
 package LeetCodePatterns.FastSlowPointer;
 
-import static PhoneScreen.Utils.*;
+import static Learning.Utils.*;
 
 /**
  * You are given a circular array nums of positive and negative integers. If a number k at an index is positive, then
