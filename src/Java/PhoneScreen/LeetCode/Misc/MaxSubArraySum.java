@@ -1,6 +1,5 @@
-package LeetCode.misc;
-
-import static LeetCode.misc.MergeTwoSortedArrays.printArray;
+package LeetCode.Misc;
+import static PhoneScreen.Utils.*;
 
 /**
  * Given an array of positive numbers and a positive number ‘k,’ find the maximum sum of any contiguous subarray of size ‘k’.

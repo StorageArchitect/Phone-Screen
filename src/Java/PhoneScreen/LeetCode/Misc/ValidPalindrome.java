@@ -1,4 +1,4 @@
-package LeetCode.misc;
+package LeetCode.Misc;
 
 /**
  * Given a string, determine if it is a palindrome, considering only

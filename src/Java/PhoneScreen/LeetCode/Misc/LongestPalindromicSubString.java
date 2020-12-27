@@ -1,9 +1,4 @@
-package LeetCode.misc;
-
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.Map;
-import java.util.Set;
+package LeetCode.Misc;
 
 /**
  * Given a string s, return the longest palindromic substring in s.

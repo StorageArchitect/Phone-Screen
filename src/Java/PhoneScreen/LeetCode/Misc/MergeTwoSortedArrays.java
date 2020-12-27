@@ -1,4 +1,6 @@
-package LeetCode.misc;
+package LeetCode.Misc;
+
+import static PhoneScreen.Utils.*;
 
 /**
  * Merge two sorted linked lists and return it as a new sorted list.
@@ -71,21 +73,6 @@ public class MergeTwoSortedArrays {
     }
 
 
-    public static void printArray(int[] a) {
-        for (int i=0; i < a.length; i++) {
-            System.out.print(a[i] + ", ");
-        }
-        System.out.println(" " );
-
-    }
-
-    public static void printArray(double[] a) {
-        for (int i=0; i < a.length; i++) {
-            System.out.print(a[i] + ", ");
-        }
-        System.out.println(" " );
-
-    }
 
     /**
      * Definition for singly-linked list. public class ListNode { int val; ListNode next; ListNode() {} ListNode(int

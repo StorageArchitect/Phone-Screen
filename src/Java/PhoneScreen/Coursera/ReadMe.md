@@ -12,4 +12,5 @@ A list of commonly referred to website that are helpful are listed in the acknow
 * [Data Structures](https://www.coursera.org/programs/at-t-computer-science-emerging-technologies-fzatm?authProvider=att&collectionId=&currentTab=MY_COURSES&productId=zj2VppjQEeWh0Q5bBaG7rw&productType=s12n&showMiniModal=true)
 * [Algorithms Part II](https://www.coursera.org/learn/algorithms-part2)
 * [Advanced Java Data Structures](https://www.coursera.org/programs/at-t-computer-science-software-development-lxk3n?authProvider=att&collectionId=&currentTab=MY_COURSES&productId=NwQ9txnoEeWDtQoum3sFeQ&productType=course&showMiniModal=true)
+* [Mastering the Software Interview](https://www.coursera.org/programs/at-t-computer-science-software-development-lxk3n?authProvider=att&collectionId=&currentTab=MY_COURSES&productId=73wUyhqPEeWwrBKfKrqlSQ&productType=course&showMiniModal=true)
 

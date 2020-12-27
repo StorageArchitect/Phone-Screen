@@ -1,6 +1,5 @@
-package LeetCode.misc;
-
-import static LeetCode.misc.MergeTwoSortedArrays.printArray;
+package LeetCode.Misc;
+import static PhoneScreen.Utils.*;
 
 /**
  * Given an array, find the sum of subarrays of size ‘K’ in it.

@@ -1,4 +1,4 @@
-package LeetCode.misc;
+package LeetCode.Misc;
 
 /**
  * Given an array of positive numbers and a positive number ‘S,’ find the length of the smallest contiguous subarray

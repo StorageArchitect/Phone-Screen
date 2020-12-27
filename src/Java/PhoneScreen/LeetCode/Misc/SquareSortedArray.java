@@ -1,8 +1,7 @@
-package LeetCode.misc;
+package LeetCode.Misc;
 
 import java.util.Arrays;
-
-import static LeetCode.misc.MergeTwoSortedLists.printArray;
+import static PhoneScreen.Utils.*;
 
 /**
  * Given an integer array nums sorted in non-decreasing order, return an array of the squares of each number sorted in
